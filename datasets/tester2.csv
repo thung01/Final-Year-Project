@@ -1,0 +1,1612 @@
+item,state,date,price
+spinach,malaysia,1/1/2022,5.72
+spinach,malaysia,2/1/2022,5.27
+spinach,malaysia,3/1/2022,5.63
+spinach,malaysia,4/1/2022,5.3
+spinach,malaysia,5/1/2022,5.66
+spinach,malaysia,6/1/2022,5.61
+spinach,malaysia,7/1/2022,5.59
+spinach,malaysia,8/1/2022,5.66
+spinach,malaysia,9/1/2022,5.52
+ladies fingers,malaysia,1/1/2022,9.15
+ladies fingers,malaysia,2/1/2022,9.31
+ladies fingers,malaysia,3/1/2022,9.09
+ladies fingers,malaysia,4/1/2022,9.22
+ladies fingers,malaysia,5/1/2022,9.34
+ladies fingers,malaysia,6/1/2022,9.31
+ladies fingers,malaysia,7/1/2022,8.71
+ladies fingers,malaysia,8/1/2022,8.73
+ladies fingers,malaysia,9/1/2022,8.8
+tomatoes,malaysia,1/1/2022,6.12
+tomatoes,malaysia,2/1/2022,6.78
+tomatoes,malaysia,3/1/2022,5.86
+tomatoes,malaysia,4/1/2022,5.98
+tomatoes,malaysia,5/1/2022,6.12
+tomatoes,malaysia,6/1/2022,6.74
+tomatoes,malaysia,7/1/2022,6.49
+tomatoes,malaysia,8/1/2022,6.96
+tomatoes,malaysia,9/1/2022,6.41
+spinach,johor,1/1/2022,5.99
+spinach,johor,2/1/2022,5.4
+spinach,johor,3/1/2022,5.97
+spinach,johor,4/1/2022,5.76
+spinach,johor,5/1/2022,6.58
+spinach,johor,6/1/2022,6.31
+spinach,johor,7/1/2022,6.35
+spinach,johor,8/1/2022,6.83
+spinach,johor,9/1/2022,6.58
+ladies fingers,johor,1/1/2022,10.18
+ladies fingers,johor,2/1/2022,10.34
+ladies fingers,johor,3/1/2022,9.09
+ladies fingers,johor,4/1/2022,9.06
+ladies fingers,johor,5/1/2022,9.41
+ladies fingers,johor,6/1/2022,9.92
+ladies fingers,johor,7/1/2022,9.84
+ladies fingers,johor,8/1/2022,10.7
+ladies fingers,johor,9/1/2022,10.53
+tomatoes,johor,1/1/2022,5.42
+tomatoes,johor,2/1/2022,6.09
+tomatoes,johor,3/1/2022,5.05
+tomatoes,johor,4/1/2022,5.2
+tomatoes,johor,5/1/2022,5.39
+tomatoes,johor,6/1/2022,6.23
+tomatoes,johor,7/1/2022,5.98
+tomatoes,johor,8/1/2022,6.64
+tomatoes,johor,9/1/2022,5.98
+apple fuji,malaysia,1/1/2022,1.82
+apple fuji,malaysia,2/1/2022,1.82
+apple fuji,malaysia,3/1/2022,1.83
+apple fuji,malaysia,4/1/2022,1.82
+apple fuji,malaysia,5/1/2022,1.85
+apple fuji,malaysia,6/1/2022,1.92
+apple fuji,malaysia,7/1/2022,1.94
+apple fuji,malaysia,8/1/2022,1.96
+apple fuji,malaysia,9/1/2022,1.98
+pineapple,malaysia,1/1/2022,3.26
+pineapple,malaysia,2/1/2022,3.34
+pineapple,malaysia,3/1/2022,3.55
+pineapple,malaysia,4/1/2022,3.48
+pineapple,malaysia,5/1/2022,3.49
+pineapple,malaysia,6/1/2022,3.53
+pineapple,malaysia,7/1/2022,3.68
+pineapple,malaysia,8/1/2022,3.54
+pineapple,malaysia,9/1/2022,3.65
+watermelon,malaysia,1/1/2022,3.57
+watermelon,malaysia,2/1/2022,3.46
+watermelon,malaysia,3/1/2022,3.16
+watermelon,malaysia,4/1/2022,3.31
+watermelon,malaysia,5/1/2022,3.71
+watermelon,malaysia,6/1/2022,3.87
+watermelon,malaysia,7/1/2022,3.64
+watermelon,malaysia,8/1/2022,3.73
+watermelon,malaysia,9/1/2022,3.82
+apple fuji,johor,1/1/2022,1.82
+apple fuji,johor,2/1/2022,1.82
+apple fuji,johor,3/1/2022,1.83
+apple fuji,johor,4/1/2022,1.82
+apple fuji,johor,5/1/2022,1.85
+apple fuji,johor,6/1/2022,1.92
+apple fuji,johor,7/1/2022,1.94
+apple fuji,johor,8/1/2022,1.96
+apple fuji,johor,9/1/2022,1.98
+pineapple,johor,1/1/2022,3.26
+pineapple,johor,2/1/2022,3.34
+pineapple,johor,3/1/2022,3.55
+pineapple,johor,4/1/2022,3.48
+pineapple,johor,5/1/2022,3.49
+pineapple,johor,6/1/2022,3.53
+pineapple,johor,7/1/2022,3.68
+pineapple,johor,8/1/2022,3.54
+pineapple,johor,9/1/2022,3.65
+watermelon,johor,1/1/2022,3.57
+watermelon,johor,2/1/2022,3.46
+watermelon,johor,3/1/2022,3.16
+watermelon,johor,4/1/2022,3.31
+watermelon,johor,5/1/2022,3.71
+watermelon,johor,6/1/2022,3.87
+watermelon,johor,7/1/2022,3.64
+watermelon,johor,8/1/2022,3.73
+watermelon,johor,9/1/2022,3.82
+chicken,malaysia,1/1/2022,9.48
+chicken,malaysia,2/1/2022,9.46
+chicken,malaysia,3/1/2022,9.47
+chicken,malaysia,4/1/2022,9.5
+chicken,malaysia,5/1/2022,9.7
+chicken,malaysia,6/1/2022,10.02
+chicken,malaysia,7/1/2022,9.94
+chicken,malaysia,8/1/2022,9.65
+chicken,malaysia,9/1/2022,9.86
+beef,malaysia,1/1/2022,35.56
+beef,malaysia,2/1/2022,35.76
+beef,malaysia,3/1/2022,35.93
+beef,malaysia,4/1/2022,36.26
+beef,malaysia,5/1/2022,37
+beef,malaysia,6/1/2022,37.13
+beef,malaysia,7/1/2022,37.36
+beef,malaysia,8/1/2022,37.64
+beef,malaysia,9/1/2022,37.66
+siakap fish,malaysia,1/1/2022,19.38
+siakap fish,malaysia,2/1/2022,20.02
+siakap fish,malaysia,3/1/2022,20.33
+siakap fish,malaysia,4/1/2022,20.67
+siakap fish,malaysia,5/1/2022,21.25
+siakap fish,malaysia,6/1/2022,21.93
+siakap fish,malaysia,7/1/2022,21.88
+siakap fish,malaysia,8/1/2022,21.31
+siakap fish,malaysia,9/1/2022,20.98
+chicken,johor,1/1/2022,9.01
+chicken,johor,2/1/2022,8.94
+chicken,johor,3/1/2022,8.97
+chicken,johor,4/1/2022,8.99
+chicken,johor,5/1/2022,9.24
+chicken,johor,6/1/2022,9.66
+chicken,johor,7/1/2022,9.35
+chicken,johor,8/1/2022,8.78
+chicken,johor,9/1/2022,9.16
+beef,johor,1/1/2022,35.47
+beef,johor,2/1/2022,35.87
+beef,johor,3/1/2022,36.09
+beef,johor,4/1/2022,36.06
+beef,johor,5/1/2022,37.38
+beef,johor,6/1/2022,38.4
+beef,johor,7/1/2022,39.33
+beef,johor,8/1/2022,39.33
+beef,johor,9/1/2022,39.4
+siakap fish,johor,1/1/2022,18.62
+siakap fish,johor,2/1/2022,19.21
+siakap fish,johor,3/1/2022,19.71
+siakap fish,johor,4/1/2022,20.37
+siakap fish,johor,5/1/2022,20.86
+siakap fish,johor,6/1/2022,22.17
+siakap fish,johor,7/1/2022,22.08
+siakap fish,johor,8/1/2022,21.08
+siakap fish,johor,9/1/2022,20.47
+spinach,selangor,1/1/2022,6.48
+spinach,selangor,2/1/2022,5.08
+spinach,selangor,3/1/2022,5.54
+spinach,selangor,4/1/2022,4.56
+spinach,selangor,5/1/2022,5.28
+spinach,selangor,6/1/2022,5.28
+spinach,selangor,7/1/2022,5.06
+spinach,selangor,8/1/2022,5.1
+spinach,selangor,9/1/2022,4.84
+ladies fingers,selangor,1/1/2022,9.71
+ladies fingers,selangor,2/1/2022,9.71
+ladies fingers,selangor,3/1/2022,9.11
+ladies fingers,selangor,4/1/2022,9.73
+ladies fingers,selangor,5/1/2022,10.1
+ladies fingers,selangor,6/1/2022,9.26
+ladies fingers,selangor,7/1/2022,8.26
+ladies fingers,selangor,8/1/2022,8.35
+ladies fingers,selangor,9/1/2022,8.41
+tomatoes,selangor,1/1/2022,5.47
+tomatoes,selangor,2/1/2022,5.83
+tomatoes,selangor,3/1/2022,4.64
+tomatoes,selangor,4/1/2022,4.98
+tomatoes,selangor,5/1/2022,4.96
+tomatoes,selangor,6/1/2022,5.95
+tomatoes,selangor,7/1/2022,5.35
+tomatoes,selangor,8/1/2022,6.08
+tomatoes,selangor,9/1/2022,5.25
+apple fuji,selangor,1/1/2022,2.06
+apple fuji,selangor,2/1/2022,2.17
+apple fuji,selangor,3/1/2022,2.19
+apple fuji,selangor,4/1/2022,2.19
+apple fuji,selangor,5/1/2022,2.1
+apple fuji,selangor,6/1/2022,2.14
+apple fuji,selangor,7/1/2022,2.21
+apple fuji,selangor,8/1/2022,2.24
+apple fuji,selangor,9/1/2022,2.27
+pineapple,selangor,1/1/2022,4.1
+pineapple,selangor,2/1/2022,4.09
+pineapple,selangor,3/1/2022,4.05
+pineapple,selangor,4/1/2022,4.02
+pineapple,selangor,5/1/2022,4.1
+pineapple,selangor,6/1/2022,4.38
+pineapple,selangor,7/1/2022,4.31
+pineapple,selangor,8/1/2022,4.44
+pineapple,selangor,9/1/2022,4.59
+watermelon,selangor,1/1/2022,3.91
+watermelon,selangor,2/1/2022,3.5
+watermelon,selangor,3/1/2022,3.29
+watermelon,selangor,4/1/2022,3.91
+watermelon,selangor,5/1/2022,4.06
+watermelon,selangor,6/1/2022,3.97
+watermelon,selangor,7/1/2022,3.95
+watermelon,selangor,8/1/2022,3.93
+watermelon,selangor,9/1/2022,4.01
+chicken,selangor,1/1/2022,9.17
+chicken,selangor,2/1/2022,8.95
+chicken,selangor,3/1/2022,8.94
+chicken,selangor,4/1/2022,8.96
+chicken,selangor,5/1/2022,9.27
+chicken,selangor,6/1/2022,9.55
+chicken,selangor,7/1/2022,9.5
+chicken,selangor,8/1/2022,9.08
+chicken,selangor,9/1/2022,9.36
+beef,selangor,1/1/2022,37.16
+beef,selangor,2/1/2022,37.45
+beef,selangor,3/1/2022,37.66
+beef,selangor,4/1/2022,38.13
+beef,selangor,5/1/2022,38.29
+beef,selangor,6/1/2022,38.16
+beef,selangor,7/1/2022,38.36
+beef,selangor,8/1/2022,38.99
+beef,selangor,9/1/2022,38.82
+siakap fish,selangor,1/1/2022,20.17
+siakap fish,selangor,2/1/2022,20.89
+siakap fish,selangor,3/1/2022,20.43
+siakap fish,selangor,4/1/2022,20.74
+siakap fish,selangor,5/1/2022,21.57
+siakap fish,selangor,6/1/2022,21.64
+siakap fish,selangor,7/1/2022,22.19
+siakap fish,selangor,8/1/2022,21.51
+siakap fish,selangor,9/1/2022,21.29
+spinach,sabah,1/1/2022,4.6
+spinach,sabah,2/1/2022,4.79
+spinach,sabah,3/1/2022,4.61
+spinach,sabah,4/1/2022,4.78
+spinach,sabah,5/1/2022,4.8
+spinach,sabah,6/1/2022,5.01
+spinach,sabah,7/1/2022,5.12
+spinach,sabah,8/1/2022,5.09
+spinach,sabah,9/1/2022,5.13
+ladies fingers,sabah,1/1/2022,6.64
+ladies fingers,sabah,2/1/2022,6.44
+ladies fingers,sabah,3/1/2022,6.38
+ladies fingers,sabah,4/1/2022,6.92
+ladies fingers,sabah,5/1/2022,7.21
+ladies fingers,sabah,6/1/2022,7.71
+ladies fingers,sabah,7/1/2022,7.81
+ladies fingers,sabah,8/1/2022,7.45
+ladies fingers,sabah,9/1/2022,7.4
+tomatoes,sabah,1/1/2022,7.17
+tomatoes,sabah,2/1/2022,7.39
+tomatoes,sabah,3/1/2022,7.23
+tomatoes,sabah,4/1/2022,6.79
+tomatoes,sabah,5/1/2022,7.32
+tomatoes,sabah,6/1/2022,7.54
+tomatoes,sabah,7/1/2022,7.57
+tomatoes,sabah,8/1/2022,7.55
+tomatoes,sabah,9/1/2022,7.36
+apple fuji,sabah,1/1/2022,1.31
+apple fuji,sabah,2/1/2022,1.37
+apple fuji,sabah,3/1/2022,1.38
+apple fuji,sabah,4/1/2022,1.39
+apple fuji,sabah,5/1/2022,1.45
+apple fuji,sabah,6/1/2022,1.5
+apple fuji,sabah,7/1/2022,1.5
+apple fuji,sabah,8/1/2022,1.41
+apple fuji,sabah,9/1/2022,1.44
+pineapple,sabah,1/1/2022,5
+pineapple,sabah,2/1/2022,5.33
+pineapple,sabah,3/1/2022,5.42
+pineapple,sabah,4/1/2022,5.4
+pineapple,sabah,5/1/2022,5.27
+pineapple,sabah,6/1/2022,5.1
+pineapple,sabah,7/1/2022,4.79
+pineapple,sabah,8/1/2022,4.97
+pineapple,sabah,9/1/2022,5.45
+chicken,sabah,1/1/2022,10.85
+chicken,sabah,2/1/2022,11.2
+chicken,sabah,3/1/2022,11.34
+chicken,sabah,4/1/2022,11.29
+chicken,sabah,5/1/2022,11.32
+chicken,sabah,6/1/2022,11.44
+chicken,sabah,7/1/2022,12
+chicken,sabah,8/1/2022,12.08
+chicken,sabah,9/1/2022,12.09
+beef,sabah,1/1/2022,27.57
+beef,sabah,2/1/2022,28.05
+beef,sabah,3/1/2022,27.57
+beef,sabah,4/1/2022,30.13
+beef,sabah,5/1/2022,30.06
+beef,sabah,6/1/2022,29.27
+beef,sabah,7/1/2022,29.67
+beef,sabah,8/1/2022,30.46
+beef,sabah,9/1/2022,28.8
+siakap fish,sabah,1/1/2022,19.5
+siakap fish,sabah,2/1/2022,18.71
+siakap fish,sabah,3/1/2022,19.75
+siakap fish,sabah,4/1/2022,19.8
+siakap fish,sabah,5/1/2022,20.56
+siakap fish,sabah,6/1/2022,19.75
+siakap fish,sabah,7/1/2022,19.34
+siakap fish,sabah,8/1/2022,20.76
+siakap fish,sabah,9/1/2022,23.37
+spinach,perak,1/1/2022,5.01
+spinach,perak,2/1/2022,4.78
+spinach,perak,3/1/2022,5.27
+spinach,perak,4/1/2022,4.85
+spinach,perak,5/1/2022,4.72
+spinach,perak,6/1/2022,5.15
+spinach,perak,7/1/2022,4.81
+spinach,perak,8/1/2022,4.99
+spinach,perak,9/1/2022,4.93
+ladies fingers,perak,1/1/2022,8.94
+ladies fingers,perak,2/1/2022,9.24
+ladies fingers,perak,3/1/2022,9.39
+ladies fingers,perak,4/1/2022,9.3
+ladies fingers,perak,5/1/2022,9.83
+ladies fingers,perak,6/1/2022,9.81
+ladies fingers,perak,7/1/2022,8.24
+ladies fingers,perak,8/1/2022,8.15
+ladies fingers,perak,9/1/2022,8.48
+tomatoes,perak,1/1/2022,5.47
+tomatoes,perak,2/1/2022,6.02
+tomatoes,perak,3/1/2022,5.21
+tomatoes,perak,4/1/2022,5.22
+tomatoes,perak,5/1/2022,5.25
+tomatoes,perak,6/1/2022,5.84
+tomatoes,perak,7/1/2022,5.47
+tomatoes,perak,8/1/2022,6.28
+tomatoes,perak,9/1/2022,5.47
+apple fuji,perak,1/1/2022,2.12
+apple fuji,perak,2/1/2022,2.14
+apple fuji,perak,3/1/2022,2.12
+apple fuji,perak,4/1/2022,2.18
+apple fuji,perak,5/1/2022,2.19
+apple fuji,perak,6/1/2022,2.2
+apple fuji,perak,7/1/2022,2.24
+apple fuji,perak,8/1/2022,2.36
+apple fuji,perak,9/1/2022,2.38
+pineapple,perak,1/1/2022,3.53
+pineapple,perak,2/1/2022,3.6
+pineapple,perak,3/1/2022,3.56
+pineapple,perak,4/1/2022,3.61
+pineapple,perak,5/1/2022,3.74
+pineapple,perak,6/1/2022,3.86
+pineapple,perak,7/1/2022,3.91
+pineapple,perak,8/1/2022,4.13
+pineapple,perak,9/1/2022,4.18
+watermelon,perak,1/1/2022,3.42
+watermelon,perak,2/1/2022,3.13
+watermelon,perak,3/1/2022,2.84
+watermelon,perak,4/1/2022,3.3
+watermelon,perak,5/1/2022,3.59
+watermelon,perak,6/1/2022,3.53
+watermelon,perak,7/1/2022,3.54
+watermelon,perak,8/1/2022,3.49
+watermelon,perak,9/1/2022,3.6
+chicken,perak,1/1/2022,9.04
+chicken,perak,2/1/2022,8.91
+chicken,perak,3/1/2022,8.92
+chicken,perak,4/1/2022,9.04
+chicken,perak,5/1/2022,9.16
+chicken,perak,6/1/2022,9.51
+chicken,perak,7/1/2022,9.24
+chicken,perak,8/1/2022,9.04
+chicken,perak,9/1/2022,9.17
+beef,perak,1/1/2022,34
+beef,perak,2/1/2022,34.04
+beef,perak,3/1/2022,34.18
+beef,perak,4/1/2022,34.79
+beef,perak,5/1/2022,35.68
+beef,perak,6/1/2022,36.19
+beef,perak,7/1/2022,36.44
+beef,perak,8/1/2022,36.79
+beef,perak,9/1/2022,36.83
+siakap fish,perak,1/1/2022,17.77
+siakap fish,perak,2/1/2022,18.58
+siakap fish,perak,3/1/2022,18.97
+siakap fish,perak,4/1/2022,19.27
+siakap fish,perak,5/1/2022,19.63
+siakap fish,perak,6/1/2022,20.02
+siakap fish,perak,7/1/2022,20.21
+siakap fish,perak,8/1/2022,20.2
+siakap fish,perak,9/1/2022,19.92
+spinach,sarawak,1/1/2022,6.55
+spinach,sarawak,2/1/2022,7.12
+spinach,sarawak,3/1/2022,6.96
+spinach,sarawak,4/1/2022,7.02
+spinach,sarawak,5/1/2022,6.93
+spinach,sarawak,6/1/2022,6.99
+spinach,sarawak,7/1/2022,6.94
+spinach,sarawak,8/1/2022,7.01
+spinach,sarawak,9/1/2022,6.95
+ladies fingers,sarawak,1/1/2022,8.12
+ladies fingers,sarawak,2/1/2022,9.03
+ladies fingers,sarawak,3/1/2022,9.48
+ladies fingers,sarawak,4/1/2022,9.47
+ladies fingers,sarawak,5/1/2022,9.02
+ladies fingers,sarawak,6/1/2022,8.99
+ladies fingers,sarawak,7/1/2022,8.58
+ladies fingers,sarawak,8/1/2022,8.83
+ladies fingers,sarawak,9/1/2022,8.96
+tomatoes,sarawak,1/1/2022,8.3
+tomatoes,sarawak,2/1/2022,8.83
+tomatoes,sarawak,3/1/2022,8.77
+tomatoes,sarawak,4/1/2022,8.46
+tomatoes,sarawak,5/1/2022,8.67
+tomatoes,sarawak,6/1/2022,8.89
+tomatoes,sarawak,7/1/2022,9.14
+tomatoes,sarawak,8/1/2022,8.82
+tomatoes,sarawak,9/1/2022,8.91
+apple fuji,sarawak,1/1/2022,2.07
+apple fuji,sarawak,2/1/2022,2.1
+apple fuji,sarawak,3/1/2022,2.17
+apple fuji,sarawak,4/1/2022,2.19
+apple fuji,sarawak,5/1/2022,2.19
+apple fuji,sarawak,6/1/2022,2.31
+apple fuji,sarawak,7/1/2022,2.28
+apple fuji,sarawak,8/1/2022,2.24
+apple fuji,sarawak,9/1/2022,2.32
+pineapple,sarawak,1/1/2022,4.53
+pineapple,sarawak,2/1/2022,4.67
+pineapple,sarawak,3/1/2022,4.62
+pineapple,sarawak,4/1/2022,4.67
+pineapple,sarawak,5/1/2022,4.64
+pineapple,sarawak,6/1/2022,4.82
+pineapple,sarawak,7/1/2022,4.98
+pineapple,sarawak,8/1/2022,4.96
+pineapple,sarawak,9/1/2022,5.02
+chicken,sarawak,1/1/2022,10.49
+chicken,sarawak,2/1/2022,10.56
+chicken,sarawak,3/1/2022,10.52
+chicken,sarawak,4/1/2022,10.62
+chicken,sarawak,5/1/2022,10.65
+chicken,sarawak,6/1/2022,10.8
+chicken,sarawak,7/1/2022,11.1
+chicken,sarawak,8/1/2022,11.54
+chicken,sarawak,9/1/2022,11.59
+beef,sarawak,1/1/2022,41.3
+beef,sarawak,2/1/2022,50.45
+beef,sarawak,3/1/2022,47.7
+beef,sarawak,4/1/2022,47.7
+beef,sarawak,5/1/2022,47.7
+beef,sarawak,6/1/2022,53.63
+beef,sarawak,7/1/2022,54.47
+beef,sarawak,8/1/2022,55
+beef,sarawak,9/1/2022,61.67
+siakap fish,sarawak,1/1/2022,20.13
+siakap fish,sarawak,2/1/2022,21.35
+siakap fish,sarawak,3/1/2022,22.14
+siakap fish,sarawak,4/1/2022,21.62
+siakap fish,sarawak,5/1/2022,22.22
+siakap fish,sarawak,6/1/2022,22.71
+siakap fish,sarawak,7/1/2022,22.36
+siakap fish,sarawak,8/1/2022,23.66
+siakap fish,sarawak,9/1/2022,23.62
+prawn,malaysia,1/1/2022,33.51
+prawn,malaysia,2/1/2022,34.06
+prawn,malaysia,3/1/2022,34.37
+prawn,malaysia,4/1/2022,34.29
+prawn,malaysia,5/1/2022,34.34
+prawn,malaysia,6/1/2022,34.32
+prawn,malaysia,7/1/2022,34.18
+prawn,malaysia,8/1/2022,34.2
+prawn,malaysia,9/1/2022,34.02
+cuttlefish,malaysia,1/1/2022,30.94
+cuttlefish,malaysia,2/1/2022,30.03
+cuttlefish,malaysia,3/1/2022,30.35
+cuttlefish,malaysia,4/1/2022,30.41
+cuttlefish,malaysia,5/1/2022,29.96
+cuttlefish,malaysia,6/1/2022,30.3
+cuttlefish,malaysia,7/1/2022,30.94
+cuttlefish,malaysia,8/1/2022,31.3
+cuttlefish,malaysia,9/1/2022,30.85
+crab,malaysia,1/1/2022,30.83
+crab,malaysia,2/1/2022,30.54
+crab,malaysia,3/1/2022,30.56
+crab,malaysia,4/1/2022,31.71
+crab,malaysia,5/1/2022,32.87
+crab,malaysia,6/1/2022,33.9
+crab,malaysia,7/1/2022,33.8
+crab,malaysia,8/1/2022,33.31
+crab,malaysia,9/1/2022,33.01
+prawn,selangor,1/1/2022,34.99
+prawn,selangor,2/1/2022,35.88
+prawn,selangor,3/1/2022,36.18
+prawn,selangor,4/1/2022,35.71
+prawn,selangor,5/1/2022,35.05
+prawn,selangor,6/1/2022,35.96
+prawn,selangor,7/1/2022,36.18
+prawn,selangor,8/1/2022,35.99
+prawn,selangor,9/1/2022,35.99
+cuttlefish,selangor,1/1/2022,37.62
+cuttlefish,selangor,2/1/2022,37.68
+cuttlefish,selangor,3/1/2022,36.7
+cuttlefish,selangor,4/1/2022,37.12
+cuttlefish,selangor,5/1/2022,35.87
+cuttlefish,selangor,6/1/2022,35.8
+cuttlefish,selangor,7/1/2022,35.77
+cuttlefish,selangor,8/1/2022,37.59
+cuttlefish,selangor,9/1/2022,36.38
+crab,selangor,1/1/2022,37.34
+crab,selangor,2/1/2022,36
+crab,selangor,3/1/2022,34.18
+crab,selangor,4/1/2022,39.05
+crab,selangor,5/1/2022,40.38
+crab,selangor,6/1/2022,40.38
+crab,selangor,7/1/2022,42.1
+crab,selangor,8/1/2022,40.14
+crab,selangor,9/1/2022,38.94
+prawn,johor,1/1/2022,34.82
+prawn,johor,2/1/2022,35.26
+prawn,johor,3/1/2022,35.13
+prawn,johor,4/1/2022,34.88
+prawn,johor,5/1/2022,35.12
+prawn,johor,6/1/2022,35.96
+prawn,johor,7/1/2022,35.17
+prawn,johor,8/1/2022,34.52
+prawn,johor,9/1/2022,34.34
+cuttlefish,johor,1/1/2022,32.05
+cuttlefish,johor,2/1/2022,32.06
+cuttlefish,johor,3/1/2022,31.77
+cuttlefish,johor,4/1/2022,31.51
+cuttlefish,johor,5/1/2022,32.71
+cuttlefish,johor,6/1/2022,34.16
+cuttlefish,johor,7/1/2022,32.91
+cuttlefish,johor,8/1/2022,32.35
+cuttlefish,johor,9/1/2022,32.8
+crab,johor,1/1/2022,30.65
+crab,johor,2/1/2022,30.69
+crab,johor,3/1/2022,29.71
+crab,johor,4/1/2022,29.46
+crab,johor,5/1/2022,31.67
+crab,johor,6/1/2022,36.15
+crab,johor,7/1/2022,33.33
+crab,johor,8/1/2022,33.2
+crab,johor,9/1/2022,32.29
+prawn,sabah,1/1/2022,28.07
+prawn,sabah,2/1/2022,28.93
+prawn,sabah,3/1/2022,29.14
+prawn,sabah,4/1/2022,30.45
+prawn,sabah,5/1/2022,31.26
+prawn,sabah,6/1/2022,29.83
+prawn,sabah,7/1/2022,30.51
+prawn,sabah,8/1/2022,31.51
+prawn,sabah,9/1/2022,31.29
+cuttlefish,sabah,1/1/2022,14.96
+cuttlefish,sabah,2/1/2022,13.67
+cuttlefish,sabah,3/1/2022,15.43
+cuttlefish,sabah,4/1/2022,15.77
+cuttlefish,sabah,5/1/2022,16.86
+cuttlefish,sabah,6/1/2022,17.18
+cuttlefish,sabah,7/1/2022,18.84
+cuttlefish,sabah,8/1/2022,18.48
+cuttlefish,sabah,9/1/2022,18.5
+crab,sabah,1/1/2022,17.89
+crab,sabah,2/1/2022,17.68
+crab,sabah,3/1/2022,15.92
+crab,sabah,4/1/2022,16.04
+crab,sabah,5/1/2022,18.05
+crab,sabah,6/1/2022,18.97
+crab,sabah,7/1/2022,18.84
+crab,sabah,8/1/2022,17.56
+crab,sabah,9/1/2022,17.94
+prawn,perak,1/1/2022,31.09
+prawn,perak,2/1/2022,31.89
+prawn,perak,3/1/2022,32.23
+prawn,perak,4/1/2022,32.16
+prawn,perak,5/1/2022,31.99
+prawn,perak,6/1/2022,31.43
+prawn,perak,7/1/2022,31.49
+prawn,perak,8/1/2022,31.65
+prawn,perak,9/1/2022,31.63
+cuttlefish,perak,1/1/2022,32.44
+cuttlefish,perak,2/1/2022,31.36
+cuttlefish,perak,3/1/2022,31.74
+cuttlefish,perak,4/1/2022,32.79
+cuttlefish,perak,5/1/2022,32.04
+cuttlefish,perak,6/1/2022,31.52
+cuttlefish,perak,7/1/2022,31.79
+cuttlefish,perak,8/1/2022,32.19
+cuttlefish,perak,9/1/2022,32.26
+crab,perak,1/1/2022,29.13
+crab,perak,2/1/2022,29.39
+crab,perak,3/1/2022,29.64
+crab,perak,4/1/2022,31.15
+crab,perak,5/1/2022,32.14
+crab,perak,6/1/2022,32.39
+crab,perak,7/1/2022,32.31
+crab,perak,8/1/2022,33.13
+crab,perak,9/1/2022,34.01
+prawn,sarawak,1/1/2022,32.66
+prawn,sarawak,2/1/2022,33.28
+prawn,sarawak,3/1/2022,33.22
+prawn,sarawak,4/1/2022,33.42
+prawn,sarawak,5/1/2022,36.1
+prawn,sarawak,6/1/2022,36.71
+prawn,sarawak,7/1/2022,37.67
+prawn,sarawak,8/1/2022,38.53
+prawn,sarawak,9/1/2022,37.87
+cuttlefish,sarawak,1/1/2022,19.4
+cuttlefish,sarawak,2/1/2022,21.89
+cuttlefish,sarawak,3/1/2022,21.22
+cuttlefish,sarawak,4/1/2022,21.04
+cuttlefish,sarawak,5/1/2022,21.31
+cuttlefish,sarawak,6/1/2022,23.12
+cuttlefish,sarawak,7/1/2022,22.58
+cuttlefish,sarawak,8/1/2022,22.11
+cuttlefish,sarawak,9/1/2022,22.02
+crab,sarawak,1/1/2022,25.23
+crab,sarawak,2/1/2022,24.75
+crab,sarawak,3/1/2022,24.21
+crab,sarawak,4/1/2022,24.72
+crab,sarawak,5/1/2022,25.21
+crab,sarawak,6/1/2022,24.94
+crab,sarawak,7/1/2022,25.06
+crab,sarawak,8/1/2022,24.36
+crab,sarawak,9/1/2022,22.47
+red chilli (kulai),malaysia,1/1/2022,17.32
+red chilli (kulai),malaysia,2/1/2022,18.88
+red chilli (kulai),malaysia,3/1/2022,18.65
+red chilli (kulai),malaysia,4/1/2022,18.67
+red chilli (kulai),malaysia,5/1/2022,18.18
+red chilli (kulai),malaysia,6/1/2022,18.35
+red chilli (kulai),malaysia,7/1/2022,19.3
+red chilli (kulai),malaysia,8/1/2022,19.04
+red chilli (kulai),malaysia,9/1/2022,19.48
+long beans,malaysia,1/1/2022,6.87
+long beans,malaysia,2/1/2022,7.77
+long beans,malaysia,3/1/2022,7.53
+long beans,malaysia,4/1/2022,7.58
+long beans,malaysia,5/1/2022,8.32
+long beans,malaysia,6/1/2022,8.43
+long beans,malaysia,7/1/2022,8.39
+long beans,malaysia,8/1/2022,7.74
+long beans,malaysia,9/1/2022,7.89
+french bean,malaysia,1/1/2022,12.56
+french bean,malaysia,2/1/2022,11.7
+french bean,malaysia,3/1/2022,12.29
+french bean,malaysia,4/1/2022,11.78
+french bean,malaysia,5/1/2022,12.68
+french bean,malaysia,6/1/2022,12.41
+french bean,malaysia,7/1/2022,12.05
+french bean,malaysia,8/1/2022,11.54
+french bean,malaysia,9/1/2022,11.2
+round cabbage,malaysia,1/1/2022,5.7
+round cabbage,malaysia,2/1/2022,5.35
+round cabbage,malaysia,3/1/2022,4.76
+round cabbage,malaysia,4/1/2022,4.56
+round cabbage,malaysia,5/1/2022,5.05
+round cabbage,malaysia,6/1/2022,5.13
+round cabbage,malaysia,7/1/2022,5.27
+round cabbage,malaysia,8/1/2022,5.04
+round cabbage,malaysia,9/1/2022,4.98
+cauliflower,malaysia,1/1/2022,11.65
+cauliflower,malaysia,2/1/2022,10.18
+cauliflower,malaysia,3/1/2022,9.94
+cauliflower,malaysia,4/1/2022,9.75
+cauliflower,malaysia,5/1/2022,10.27
+cauliflower,malaysia,6/1/2022,10.13
+cauliflower,malaysia,7/1/2022,10.37
+cauliflower,malaysia,8/1/2022,10.88
+cauliflower,malaysia,9/1/2022,12.12
+carrot,malaysia,1/1/2022,5.68
+carrot,malaysia,2/1/2022,5.33
+carrot,malaysia,3/1/2022,5.06
+carrot,malaysia,4/1/2022,5.04
+carrot,malaysia,5/1/2022,5.17
+carrot,malaysia,6/1/2022,5.37
+carrot,malaysia,7/1/2022,5.18
+carrot,malaysia,8/1/2022,5.06
+carrot,malaysia,9/1/2022,5.03
+cucumber,malaysia,1/1/2022,3.91
+cucumber,malaysia,2/1/2022,3.82
+cucumber,malaysia,3/1/2022,3.79
+cucumber,malaysia,4/1/2022,3.97
+cucumber,malaysia,5/1/2022,4.43
+cucumber,malaysia,6/1/2022,4.53
+cucumber,malaysia,7/1/2022,4.81
+cucumber,malaysia,8/1/2022,4.6
+cucumber,malaysia,9/1/2022,4.14
+green apple,malaysia,1/1/2022,1.21
+green apple,malaysia,2/1/2022,1.22
+green apple,malaysia,3/1/2022,1.24
+green apple,malaysia,4/1/2022,1.24
+green apple,malaysia,5/1/2022,1.26
+green apple,malaysia,6/1/2022,1.29
+green apple,malaysia,7/1/2022,1.29
+green apple,malaysia,8/1/2022,1.3
+green apple,malaysia,9/1/2022,1.31
+red apple,malaysia,1/1/2022,1.29
+red apple,malaysia,2/1/2022,1.32
+red apple,malaysia,3/1/2022,1.32
+red apple,malaysia,4/1/2022,1.33
+red apple,malaysia,5/1/2022,1.34
+red apple,malaysia,6/1/2022,1.39
+red apple,malaysia,7/1/2022,1.38
+red apple,malaysia,8/1/2022,1.37
+red apple,malaysia,9/1/2022,1.4
+papaya,malaysia,1/1/2022,3.98
+papaya,malaysia,2/1/2022,3.96
+papaya,malaysia,3/1/2022,4.06
+papaya,malaysia,4/1/2022,4.09
+papaya,malaysia,5/1/2022,4.06
+papaya,malaysia,6/1/2022,4.17
+papaya,malaysia,7/1/2022,4.26
+papaya,malaysia,8/1/2022,4.34
+papaya,malaysia,9/1/2022,4.4
+banana,malaysia,1/1/2022,4.65
+banana,malaysia,2/1/2022,4.65
+banana,malaysia,3/1/2022,4.68
+banana,malaysia,4/1/2022,4.7
+banana,malaysia,5/1/2022,4.72
+banana,malaysia,6/1/2022,4.72
+banana,malaysia,7/1/2022,4.82
+banana,malaysia,8/1/2022,4.86
+banana,malaysia,9/1/2022,4.97
+black pomfret (fish),malaysia,1/1/2022,28.86
+black pomfret (fish),malaysia,2/1/2022,28.54
+black pomfret (fish),malaysia,3/1/2022,28.44
+black pomfret (fish),malaysia,4/1/2022,28.71
+black pomfret (fish),malaysia,5/1/2022,28.75
+black pomfret (fish),malaysia,6/1/2022,29.28
+black pomfret (fish),malaysia,7/1/2022,28.89
+black pomfret (fish),malaysia,8/1/2022,28.53
+black pomfret (fish),malaysia,9/1/2022,28.74
+hardtail scad (fish),malaysia,1/1/2022,11.19
+hardtail scad (fish),malaysia,2/1/2022,11
+hardtail scad (fish),malaysia,3/1/2022,10.99
+hardtail scad (fish),malaysia,4/1/2022,10.9
+hardtail scad (fish),malaysia,5/1/2022,10.99
+hardtail scad (fish),malaysia,6/1/2022,11.17
+hardtail scad (fish),malaysia,7/1/2022,11.19
+hardtail scad (fish),malaysia,8/1/2022,11.01
+hardtail scad (fish),malaysia,9/1/2022,11.02
+indian mackerel (fish),malaysia,1/1/2022,16.68
+indian mackerel (fish),malaysia,2/1/2022,16.58
+indian mackerel (fish),malaysia,3/1/2022,16.75
+indian mackerel (fish),malaysia,4/1/2022,16.57
+indian mackerel (fish),malaysia,5/1/2022,16.65
+indian mackerel (fish),malaysia,6/1/2022,16.74
+indian mackerel (fish),malaysia,7/1/2022,16.8
+indian mackerel (fish),malaysia,8/1/2022,16.84
+indian mackerel (fish),malaysia,9/1/2022,16.63
+threadfin bream (fish),malaysia,1/1/2022,15.45
+threadfin bream (fish),malaysia,2/1/2022,15.41
+threadfin bream (fish),malaysia,3/1/2022,15.33
+threadfin bream (fish),malaysia,4/1/2022,15.22
+threadfin bream (fish),malaysia,5/1/2022,15.56
+threadfin bream (fish),malaysia,6/1/2022,15.81
+threadfin bream (fish),malaysia,7/1/2022,15.8
+threadfin bream (fish),malaysia,8/1/2022,15.43
+threadfin bream (fish),malaysia,9/1/2022,15.45
+red snapper (fish),malaysia,1/1/2022,35.53
+red snapper (fish),malaysia,2/1/2022,36.14
+red snapper (fish),malaysia,3/1/2022,36.57
+red snapper (fish),malaysia,4/1/2022,37.15
+red snapper (fish),malaysia,5/1/2022,38.38
+red snapper (fish),malaysia,6/1/2022,38.17
+red snapper (fish),malaysia,7/1/2022,37.53
+red snapper (fish),malaysia,8/1/2022,37.53
+red snapper (fish),malaysia,9/1/2022,37.94
+"spanish mackerel, batang (fish)",malaysia,1/1/2022,35.21
+"spanish mackerel, batang (fish)",malaysia,2/1/2022,35.18
+"spanish mackerel, batang (fish)",malaysia,3/1/2022,35.21
+"spanish mackerel, batang (fish)",malaysia,4/1/2022,34.98
+"spanish mackerel, batang (fish)",malaysia,5/1/2022,36.22
+"spanish mackerel, batang (fish)",malaysia,6/1/2022,36.08
+"spanish mackerel, batang (fish)",malaysia,7/1/2022,35.37
+"spanish mackerel, batang (fish)",malaysia,8/1/2022,34.71
+"spanish mackerel, batang (fish)",malaysia,9/1/2022,35.15
+"longtail tuna, black (fish)",malaysia,1/1/2022,13.23
+"longtail tuna, black (fish)",malaysia,2/1/2022,13.34
+"longtail tuna, black (fish)",malaysia,3/1/2022,13.74
+"longtail tuna, black (fish)",malaysia,4/1/2022,13.6
+"longtail tuna, black (fish)",malaysia,5/1/2022,13.66
+"longtail tuna, black (fish)",malaysia,6/1/2022,13.67
+"longtail tuna, black (fish)",malaysia,7/1/2022,13.8
+"longtail tuna, black (fish)",malaysia,8/1/2022,13.47
+"longtail tuna, black (fish)",malaysia,9/1/2022,13.49
+selayang (fish),malaysia,1/1/2022,12.15
+selayang (fish),malaysia,2/1/2022,11.96
+selayang (fish),malaysia,3/1/2022,11.87
+selayang (fish),malaysia,4/1/2022,11.46
+selayang (fish),malaysia,5/1/2022,12
+selayang (fish),malaysia,6/1/2022,12.42
+selayang (fish),malaysia,7/1/2022,12.43
+selayang (fish),malaysia,8/1/2022,12.04
+selayang (fish),malaysia,9/1/2022,11.48
+red chilli (kulai),sabah,1/1/2022,18.71
+red chilli (kulai),sabah,2/1/2022,19.54
+red chilli (kulai),sabah,3/1/2022,18.76
+red chilli (kulai),sabah,4/1/2022,21.3
+red chilli (kulai),sabah,5/1/2022,19.61
+red chilli (kulai),sabah,6/1/2022,18.71
+red chilli (kulai),sabah,7/1/2022,18.73
+red chilli (kulai),sabah,8/1/2022,18.27
+red chilli (kulai),sabah,9/1/2022,18.37
+long beans,sabah,1/1/2022,5.27
+long beans,sabah,2/1/2022,5.33
+long beans,sabah,3/1/2022,5.09
+long beans,sabah,4/1/2022,5.37
+long beans,sabah,5/1/2022,5.68
+long beans,sabah,6/1/2022,6.02
+long beans,sabah,7/1/2022,6.06
+long beans,sabah,8/1/2022,5.92
+long beans,sabah,9/1/2022,5.88
+french bean,sabah,1/1/2022,6.86
+french bean,sabah,2/1/2022,7.05
+french bean,sabah,3/1/2022,6.87
+french bean,sabah,4/1/2022,7.2
+french bean,sabah,5/1/2022,7.2
+french bean,sabah,6/1/2022,7.56
+french bean,sabah,7/1/2022,7.33
+french bean,sabah,8/1/2022,7.16
+french bean,sabah,9/1/2022,7.09
+round cabbage,sabah,1/1/2022,5.58
+round cabbage,sabah,2/1/2022,5.57
+round cabbage,sabah,3/1/2022,4.43
+round cabbage,sabah,4/1/2022,3.76
+round cabbage,sabah,5/1/2022,4.1
+round cabbage,sabah,6/1/2022,4.59
+round cabbage,sabah,7/1/2022,5.34
+round cabbage,sabah,8/1/2022,4.74
+round cabbage,sabah,9/1/2022,4.73
+cauliflower,sabah,1/1/2022,12.9
+cauliflower,sabah,2/1/2022,12.32
+cauliflower,sabah,3/1/2022,12.27
+cauliflower,sabah,4/1/2022,12.04
+cauliflower,sabah,5/1/2022,12.94
+cauliflower,sabah,6/1/2022,12.65
+cauliflower,sabah,7/1/2022,12.62
+cauliflower,sabah,8/1/2022,12.32
+cauliflower,sabah,9/1/2022,13.12
+carrot,sabah,1/1/2022,7.32
+carrot,sabah,2/1/2022,7.23
+carrot,sabah,3/1/2022,6.59
+carrot,sabah,4/1/2022,6.41
+carrot,sabah,5/1/2022,6.2
+carrot,sabah,6/1/2022,6.71
+carrot,sabah,7/1/2022,6.44
+carrot,sabah,8/1/2022,5.99
+carrot,sabah,9/1/2022,6
+cucumber,sabah,1/1/2022,3.56
+cucumber,sabah,2/1/2022,3.64
+cucumber,sabah,3/1/2022,3.28
+cucumber,sabah,4/1/2022,3.21
+cucumber,sabah,5/1/2022,3.75
+cucumber,sabah,6/1/2022,3.59
+cucumber,sabah,7/1/2022,3.78
+cucumber,sabah,8/1/2022,3.66
+cucumber,sabah,9/1/2022,3.51
+green apple,sabah,1/1/2022,1.2
+green apple,sabah,2/1/2022,1.22
+green apple,sabah,3/1/2022,1.26
+green apple,sabah,4/1/2022,1.29
+green apple,sabah,5/1/2022,1.3
+green apple,sabah,6/1/2022,1.43
+green apple,sabah,7/1/2022,1.43
+green apple,sabah,8/1/2022,1.45
+green apple,sabah,9/1/2022,1.41
+red apple,sabah,1/1/2022,1.25
+red apple,sabah,2/1/2022,1.31
+red apple,sabah,3/1/2022,1.33
+red apple,sabah,4/1/2022,1.37
+red apple,sabah,5/1/2022,1.33
+red apple,sabah,6/1/2022,1.46
+red apple,sabah,7/1/2022,1.46
+red apple,sabah,8/1/2022,1.5
+red apple,sabah,9/1/2022,1.5
+papaya,sabah,1/1/2022,2.84
+papaya,sabah,2/1/2022,2.86
+papaya,sabah,3/1/2022,2.88
+papaya,sabah,4/1/2022,2.94
+papaya,sabah,5/1/2022,3.08
+papaya,sabah,6/1/2022,3.05
+papaya,sabah,7/1/2022,3.27
+papaya,sabah,8/1/2022,3.48
+papaya,sabah,9/1/2022,3.46
+banana,sabah,1/1/2022,3.58
+banana,sabah,2/1/2022,3.7
+banana,sabah,3/1/2022,3.89
+banana,sabah,4/1/2022,3.85
+banana,sabah,5/1/2022,3.9
+banana,sabah,6/1/2022,3.78
+banana,sabah,7/1/2022,3.82
+banana,sabah,8/1/2022,3.94
+banana,sabah,9/1/2022,4.1
+black pomfret (fish),sabah,1/1/2022,24.01
+black pomfret (fish),sabah,2/1/2022,22.93
+black pomfret (fish),sabah,3/1/2022,22.35
+black pomfret (fish),sabah,4/1/2022,25.86
+black pomfret (fish),sabah,5/1/2022,24.8
+black pomfret (fish),sabah,6/1/2022,25.22
+black pomfret (fish),sabah,7/1/2022,24.28
+black pomfret (fish),sabah,8/1/2022,22.22
+black pomfret (fish),sabah,9/1/2022,23.12
+hardtail scad (fish),sabah,1/1/2022,10.28
+hardtail scad (fish),sabah,2/1/2022,9.87
+hardtail scad (fish),sabah,3/1/2022,10.18
+hardtail scad (fish),sabah,4/1/2022,9.49
+hardtail scad (fish),sabah,5/1/2022,9.4
+hardtail scad (fish),sabah,6/1/2022,9.88
+hardtail scad (fish),sabah,7/1/2022,10.49
+hardtail scad (fish),sabah,8/1/2022,10.27
+hardtail scad (fish),sabah,9/1/2022,10
+indian mackerel (fish),sabah,1/1/2022,11.48
+indian mackerel (fish),sabah,2/1/2022,11.57
+indian mackerel (fish),sabah,3/1/2022,11.46
+indian mackerel (fish),sabah,4/1/2022,11.16
+indian mackerel (fish),sabah,5/1/2022,11.36
+indian mackerel (fish),sabah,6/1/2022,11.38
+indian mackerel (fish),sabah,7/1/2022,12.04
+indian mackerel (fish),sabah,8/1/2022,11.68
+indian mackerel (fish),sabah,9/1/2022,11.08
+threadfin bream (fish),sabah,1/1/2022,11.6
+threadfin bream (fish),sabah,2/1/2022,11.46
+threadfin bream (fish),sabah,3/1/2022,11.07
+threadfin bream (fish),sabah,4/1/2022,11.42
+threadfin bream (fish),sabah,5/1/2022,11.56
+threadfin bream (fish),sabah,6/1/2022,12.21
+threadfin bream (fish),sabah,7/1/2022,11.96
+threadfin bream (fish),sabah,8/1/2022,11.52
+threadfin bream (fish),sabah,9/1/2022,11.8
+red snapper (fish),sabah,1/1/2022,26.1
+red snapper (fish),sabah,2/1/2022,26.02
+red snapper (fish),sabah,3/1/2022,25.84
+red snapper (fish),sabah,4/1/2022,25.58
+red snapper (fish),sabah,5/1/2022,25.95
+red snapper (fish),sabah,6/1/2022,24.96
+red snapper (fish),sabah,7/1/2022,24.3
+red snapper (fish),sabah,8/1/2022,25.86
+red snapper (fish),sabah,9/1/2022,27.49
+"longtail tuna, black (fish)",sabah,1/1/2022,12.49
+"longtail tuna, black (fish)",sabah,2/1/2022,11.92
+"longtail tuna, black (fish)",sabah,3/1/2022,11.93
+"longtail tuna, black (fish)",sabah,4/1/2022,11.94
+"longtail tuna, black (fish)",sabah,5/1/2022,12.25
+"longtail tuna, black (fish)",sabah,6/1/2022,12.45
+"longtail tuna, black (fish)",sabah,7/1/2022,13.28
+"longtail tuna, black (fish)",sabah,8/1/2022,12.85
+"longtail tuna, black (fish)",sabah,9/1/2022,12.67
+selayang (fish),sabah,1/1/2022,10.66
+selayang (fish),sabah,2/1/2022,9.25
+selayang (fish),sabah,3/1/2022,8.01
+selayang (fish),sabah,4/1/2022,8.27
+selayang (fish),sabah,5/1/2022,9.4
+selayang (fish),sabah,6/1/2022,9.45
+selayang (fish),sabah,7/1/2022,9.24
+selayang (fish),sabah,8/1/2022,8.5
+selayang (fish),sabah,9/1/2022,7.73
+red chilli (kulai),sarawak,1/1/2022,23.37
+red chilli (kulai),sarawak,2/1/2022,25.79
+red chilli (kulai),sarawak,3/1/2022,26.16
+red chilli (kulai),sarawak,4/1/2022,24.94
+red chilli (kulai),sarawak,5/1/2022,24.72
+red chilli (kulai),sarawak,6/1/2022,24.38
+red chilli (kulai),sarawak,7/1/2022,23.62
+red chilli (kulai),sarawak,8/1/2022,22.16
+red chilli (kulai),sarawak,9/1/2022,22.23
+long beans,sarawak,1/1/2022,6.84
+long beans,sarawak,2/1/2022,7.82
+long beans,sarawak,3/1/2022,7.9
+long beans,sarawak,4/1/2022,7.98
+long beans,sarawak,5/1/2022,7.77
+long beans,sarawak,6/1/2022,7.43
+long beans,sarawak,7/1/2022,7.27
+long beans,sarawak,8/1/2022,7.41
+long beans,sarawak,9/1/2022,7.35
+french bean,sarawak,1/1/2022,10.2
+french bean,sarawak,2/1/2022,11.47
+french bean,sarawak,3/1/2022,11.48
+french bean,sarawak,4/1/2022,11.25
+french bean,sarawak,5/1/2022,11.43
+french bean,sarawak,6/1/2022,11.54
+french bean,sarawak,7/1/2022,11.11
+french bean,sarawak,8/1/2022,11.08
+french bean,sarawak,9/1/2022,11.26
+carrot,sarawak,1/1/2022,5.9
+carrot,sarawak,2/1/2022,6.07
+carrot,sarawak,3/1/2022,5.96
+carrot,sarawak,4/1/2022,6.05
+carrot,sarawak,5/1/2022,6.09
+carrot,sarawak,6/1/2022,6.28
+carrot,sarawak,7/1/2022,6.24
+carrot,sarawak,8/1/2022,6.33
+carrot,sarawak,9/1/2022,6.3
+cucumber,sarawak,1/1/2022,4.06
+cucumber,sarawak,2/1/2022,4.27
+cucumber,sarawak,3/1/2022,4.15
+cucumber,sarawak,4/1/2022,4.25
+cucumber,sarawak,5/1/2022,4.41
+cucumber,sarawak,6/1/2022,4.86
+cucumber,sarawak,7/1/2022,4.97
+cucumber,sarawak,8/1/2022,4.51
+cucumber,sarawak,9/1/2022,4.23
+green apple,sarawak,1/1/2022,1.48
+green apple,sarawak,2/1/2022,1.46
+green apple,sarawak,3/1/2022,1.52
+green apple,sarawak,4/1/2022,1.54
+green apple,sarawak,5/1/2022,1.59
+green apple,sarawak,6/1/2022,1.55
+green apple,sarawak,7/1/2022,1.56
+green apple,sarawak,8/1/2022,1.59
+green apple,sarawak,9/1/2022,1.59
+red apple,sarawak,1/1/2022,1.71
+red apple,sarawak,2/1/2022,1.71
+red apple,sarawak,3/1/2022,1.75
+red apple,sarawak,4/1/2022,1.78
+red apple,sarawak,5/1/2022,1.79
+red apple,sarawak,6/1/2022,1.8
+red apple,sarawak,7/1/2022,1.85
+red apple,sarawak,8/1/2022,1.79
+red apple,sarawak,9/1/2022,1.76
+papaya,sarawak,1/1/2022,3.65
+papaya,sarawak,2/1/2022,3.78
+papaya,sarawak,3/1/2022,3.81
+papaya,sarawak,4/1/2022,3.8
+papaya,sarawak,5/1/2022,3.84
+papaya,sarawak,6/1/2022,3.82
+papaya,sarawak,7/1/2022,3.9
+papaya,sarawak,8/1/2022,3.97
+papaya,sarawak,9/1/2022,4.05
+banana,sarawak,1/1/2022,3.27
+banana,sarawak,2/1/2022,3.26
+banana,sarawak,3/1/2022,3.28
+banana,sarawak,4/1/2022,3.41
+banana,sarawak,5/1/2022,3.48
+banana,sarawak,6/1/2022,3.53
+banana,sarawak,7/1/2022,3.61
+banana,sarawak,8/1/2022,3.61
+banana,sarawak,9/1/2022,3.66
+black pomfret (fish),sarawak,1/1/2022,25.9
+black pomfret (fish),sarawak,2/1/2022,26.5
+black pomfret (fish),sarawak,3/1/2022,26.28
+black pomfret (fish),sarawak,4/1/2022,26.57
+black pomfret (fish),sarawak,5/1/2022,26.33
+black pomfret (fish),sarawak,6/1/2022,26.94
+black pomfret (fish),sarawak,7/1/2022,27.79
+black pomfret (fish),sarawak,8/1/2022,27.58
+black pomfret (fish),sarawak,9/1/2022,27.77
+hardtail scad (fish),sarawak,1/1/2022,8.79
+hardtail scad (fish),sarawak,2/1/2022,9.13
+hardtail scad (fish),sarawak,3/1/2022,9.27
+hardtail scad (fish),sarawak,4/1/2022,9.48
+hardtail scad (fish),sarawak,5/1/2022,9.39
+hardtail scad (fish),sarawak,6/1/2022,10.08
+hardtail scad (fish),sarawak,7/1/2022,10.49
+hardtail scad (fish),sarawak,8/1/2022,10.59
+hardtail scad (fish),sarawak,9/1/2022,10.56
+indian mackerel (fish),sarawak,1/1/2022,14.79
+indian mackerel (fish),sarawak,2/1/2022,15.47
+indian mackerel (fish),sarawak,3/1/2022,15.22
+indian mackerel (fish),sarawak,4/1/2022,15.29
+indian mackerel (fish),sarawak,5/1/2022,14.43
+indian mackerel (fish),sarawak,6/1/2022,14.06
+indian mackerel (fish),sarawak,7/1/2022,14.84
+indian mackerel (fish),sarawak,8/1/2022,16.05
+indian mackerel (fish),sarawak,9/1/2022,16.34
+red snapper (fish),sarawak,1/1/2022,25.23
+red snapper (fish),sarawak,2/1/2022,27.64
+red snapper (fish),sarawak,3/1/2022,28.45
+red snapper (fish),sarawak,4/1/2022,28.56
+red snapper (fish),sarawak,5/1/2022,29.21
+red snapper (fish),sarawak,6/1/2022,29.16
+red snapper (fish),sarawak,7/1/2022,27.84
+red snapper (fish),sarawak,8/1/2022,29.79
+red snapper (fish),sarawak,9/1/2022,29.49
+"longtail tuna, black (fish)",sarawak,1/1/2022,12
+"longtail tuna, black (fish)",sarawak,2/1/2022,12.9
+"longtail tuna, black (fish)",sarawak,3/1/2022,13.81
+"longtail tuna, black (fish)",sarawak,4/1/2022,13.99
+"longtail tuna, black (fish)",sarawak,5/1/2022,13.96
+"longtail tuna, black (fish)",sarawak,6/1/2022,14.01
+"longtail tuna, black (fish)",sarawak,7/1/2022,14.21
+"longtail tuna, black (fish)",sarawak,8/1/2022,14.16
+"longtail tuna, black (fish)",sarawak,9/1/2022,14.5
+selayang (fish),sarawak,1/1/2022,9.95
+selayang (fish),sarawak,2/1/2022,10.07
+selayang (fish),sarawak,3/1/2022,9.97
+selayang (fish),sarawak,4/1/2022,9.88
+selayang (fish),sarawak,5/1/2022,10.11
+selayang (fish),sarawak,6/1/2022,10.02
+selayang (fish),sarawak,7/1/2022,10.14
+selayang (fish),sarawak,8/1/2022,10.59
+selayang (fish),sarawak,9/1/2022,10.36
+red chilli (kulai),perak,1/1/2022,15.89
+red chilli (kulai),perak,2/1/2022,16.67
+red chilli (kulai),perak,3/1/2022,16.7
+red chilli (kulai),perak,4/1/2022,16.18
+red chilli (kulai),perak,5/1/2022,15.6
+red chilli (kulai),perak,6/1/2022,16.01
+red chilli (kulai),perak,7/1/2022,17.02
+red chilli (kulai),perak,8/1/2022,16.92
+red chilli (kulai),perak,9/1/2022,18.06
+long beans,perak,1/1/2022,6.47
+long beans,perak,2/1/2022,7.23
+long beans,perak,3/1/2022,7.19
+long beans,perak,4/1/2022,7.3
+long beans,perak,5/1/2022,8.32
+long beans,perak,6/1/2022,8.57
+long beans,perak,7/1/2022,8.21
+long beans,perak,8/1/2022,7.57
+long beans,perak,9/1/2022,7.92
+french bean,perak,1/1/2022,14.03
+french bean,perak,2/1/2022,12.46
+french bean,perak,3/1/2022,13.59
+french bean,perak,4/1/2022,12.88
+french bean,perak,5/1/2022,14.02
+french bean,perak,6/1/2022,13.5
+french bean,perak,7/1/2022,12.92
+french bean,perak,8/1/2022,12.52
+french bean,perak,9/1/2022,11.82
+round cabbage,perak,1/1/2022,5.88
+round cabbage,perak,2/1/2022,5.45
+round cabbage,perak,3/1/2022,4.99
+round cabbage,perak,4/1/2022,4.67
+round cabbage,perak,5/1/2022,5.4
+round cabbage,perak,6/1/2022,5.34
+round cabbage,perak,7/1/2022,5.46
+round cabbage,perak,8/1/2022,5.39
+round cabbage,perak,9/1/2022,5.05
+cauliflower,perak,1/1/2022,9.43
+cauliflower,perak,2/1/2022,8.25
+cauliflower,perak,3/1/2022,9
+cauliflower,perak,4/1/2022,8.44
+cauliflower,perak,5/1/2022,8.5
+cauliflower,perak,6/1/2022,8.23
+cauliflower,perak,7/1/2022,8.5
+cauliflower,perak,8/1/2022,9
+cauliflower,perak,9/1/2022,10.21
+carrot,perak,1/1/2022,5.21
+carrot,perak,2/1/2022,4.69
+carrot,perak,3/1/2022,4.43
+carrot,perak,4/1/2022,4.33
+carrot,perak,5/1/2022,4.62
+carrot,perak,6/1/2022,4.81
+carrot,perak,7/1/2022,4.6
+carrot,perak,8/1/2022,4.56
+carrot,perak,9/1/2022,4.48
+cucumber,perak,1/1/2022,3.91
+cucumber,perak,2/1/2022,3.76
+cucumber,perak,3/1/2022,3.83
+cucumber,perak,4/1/2022,4.14
+cucumber,perak,5/1/2022,4.48
+cucumber,perak,6/1/2022,4.7
+cucumber,perak,7/1/2022,4.93
+cucumber,perak,8/1/2022,4.91
+cucumber,perak,9/1/2022,4.32
+green apple,perak,1/1/2022,1.11
+green apple,perak,2/1/2022,1.11
+green apple,perak,3/1/2022,1.11
+green apple,perak,4/1/2022,1.07
+green apple,perak,5/1/2022,1.07
+green apple,perak,6/1/2022,1.09
+green apple,perak,7/1/2022,1.09
+green apple,perak,8/1/2022,1.08
+green apple,perak,9/1/2022,1.11
+red apple,perak,1/1/2022,1.22
+red apple,perak,2/1/2022,1.3
+red apple,perak,3/1/2022,1.28
+red apple,perak,4/1/2022,1.2
+red apple,perak,5/1/2022,1.18
+red apple,perak,6/1/2022,1.22
+red apple,perak,7/1/2022,1.22
+red apple,perak,8/1/2022,1.2
+red apple,perak,9/1/2022,1.23
+papaya,perak,1/1/2022,3.96
+papaya,perak,2/1/2022,3.88
+papaya,perak,3/1/2022,4.01
+papaya,perak,4/1/2022,4.1
+papaya,perak,5/1/2022,4.04
+papaya,perak,6/1/2022,4.08
+papaya,perak,7/1/2022,4.28
+papaya,perak,8/1/2022,4.25
+papaya,perak,9/1/2022,4.44
+banana,perak,1/1/2022,4.79
+banana,perak,2/1/2022,4.83
+banana,perak,3/1/2022,4.87
+banana,perak,4/1/2022,4.88
+banana,perak,5/1/2022,4.82
+banana,perak,6/1/2022,4.88
+banana,perak,7/1/2022,4.95
+banana,perak,8/1/2022,4.97
+banana,perak,9/1/2022,4.97
+black pomfret (fish),perak,1/1/2022,29.98
+black pomfret (fish),perak,2/1/2022,29.54
+black pomfret (fish),perak,3/1/2022,29.77
+black pomfret (fish),perak,4/1/2022,29.85
+black pomfret (fish),perak,5/1/2022,29.85
+black pomfret (fish),perak,6/1/2022,29.36
+black pomfret (fish),perak,7/1/2022,28.88
+black pomfret (fish),perak,8/1/2022,29.41
+black pomfret (fish),perak,9/1/2022,29.32
+hardtail scad (fish),perak,1/1/2022,11.08
+hardtail scad (fish),perak,2/1/2022,10.74
+hardtail scad (fish),perak,3/1/2022,10.79
+hardtail scad (fish),perak,4/1/2022,10.8
+hardtail scad (fish),perak,5/1/2022,10.82
+hardtail scad (fish),perak,6/1/2022,11.15
+hardtail scad (fish),perak,7/1/2022,10.87
+hardtail scad (fish),perak,8/1/2022,10.84
+hardtail scad (fish),perak,9/1/2022,10.96
+indian mackerel (fish),perak,1/1/2022,16.05
+indian mackerel (fish),perak,2/1/2022,15.44
+indian mackerel (fish),perak,3/1/2022,16.61
+indian mackerel (fish),perak,4/1/2022,16.93
+indian mackerel (fish),perak,5/1/2022,16.82
+indian mackerel (fish),perak,6/1/2022,17.09
+indian mackerel (fish),perak,7/1/2022,16.5
+indian mackerel (fish),perak,8/1/2022,16.63
+indian mackerel (fish),perak,9/1/2022,17.21
+threadfin bream (fish),perak,1/1/2022,15.52
+threadfin bream (fish),perak,2/1/2022,15.31
+threadfin bream (fish),perak,3/1/2022,15.45
+threadfin bream (fish),perak,4/1/2022,14.62
+threadfin bream (fish),perak,5/1/2022,14.8
+threadfin bream (fish),perak,6/1/2022,15.65
+threadfin bream (fish),perak,7/1/2022,15.79
+threadfin bream (fish),perak,8/1/2022,15.52
+threadfin bream (fish),perak,9/1/2022,15.61
+red snapper (fish),perak,1/1/2022,36.22
+red snapper (fish),perak,2/1/2022,37.13
+red snapper (fish),perak,3/1/2022,38.5
+red snapper (fish),perak,4/1/2022,38.79
+red snapper (fish),perak,5/1/2022,40.13
+red snapper (fish),perak,6/1/2022,41.09
+red snapper (fish),perak,7/1/2022,41.34
+red snapper (fish),perak,8/1/2022,40.95
+red snapper (fish),perak,9/1/2022,41.04
+"spanish mackerel, batang (fish)",perak,1/1/2022,34.16
+"spanish mackerel, batang (fish)",perak,2/1/2022,36.18
+"spanish mackerel, batang (fish)",perak,3/1/2022,35.85
+"spanish mackerel, batang (fish)",perak,4/1/2022,35.51
+"spanish mackerel, batang (fish)",perak,5/1/2022,35.64
+"spanish mackerel, batang (fish)",perak,6/1/2022,35.74
+"spanish mackerel, batang (fish)",perak,7/1/2022,35.22
+"spanish mackerel, batang (fish)",perak,8/1/2022,34.55
+"spanish mackerel, batang (fish)",perak,9/1/2022,34.92
+"longtail tuna, black (fish)",perak,1/1/2022,14.5
+"longtail tuna, black (fish)",perak,2/1/2022,14.85
+"longtail tuna, black (fish)",perak,3/1/2022,14.85
+"longtail tuna, black (fish)",perak,4/1/2022,14.37
+"longtail tuna, black (fish)",perak,5/1/2022,14.33
+"longtail tuna, black (fish)",perak,6/1/2022,14.75
+"longtail tuna, black (fish)",perak,7/1/2022,14.25
+"longtail tuna, black (fish)",perak,8/1/2022,14.05
+"longtail tuna, black (fish)",perak,9/1/2022,14.03
+selayang (fish),perak,1/1/2022,11.53
+selayang (fish),perak,2/1/2022,11.43
+selayang (fish),perak,3/1/2022,11.89
+selayang (fish),perak,4/1/2022,11.44
+selayang (fish),perak,5/1/2022,11.67
+selayang (fish),perak,6/1/2022,12.43
+selayang (fish),perak,7/1/2022,12.38
+selayang (fish),perak,8/1/2022,11.73
+selayang (fish),perak,9/1/2022,11.44
+red chilli (kulai),johor,1/1/2022,15.99
+red chilli (kulai),johor,2/1/2022,18.14
+red chilli (kulai),johor,3/1/2022,17.12
+red chilli (kulai),johor,4/1/2022,16.77
+red chilli (kulai),johor,5/1/2022,16.23
+red chilli (kulai),johor,6/1/2022,16.84
+red chilli (kulai),johor,7/1/2022,19.07
+red chilli (kulai),johor,8/1/2022,19.92
+red chilli (kulai),johor,9/1/2022,20.79
+long beans,johor,1/1/2022,7.53
+long beans,johor,2/1/2022,8.76
+long beans,johor,3/1/2022,8.34
+long beans,johor,4/1/2022,8.25
+long beans,johor,5/1/2022,8.87
+long beans,johor,6/1/2022,10.04
+long beans,johor,7/1/2022,10.74
+long beans,johor,8/1/2022,9.52
+long beans,johor,9/1/2022,9.93
+french bean,johor,1/1/2022,13.62
+french bean,johor,2/1/2022,12.91
+french bean,johor,3/1/2022,13.71
+french bean,johor,4/1/2022,13.29
+french bean,johor,5/1/2022,14.35
+french bean,johor,6/1/2022,13.93
+french bean,johor,7/1/2022,13.77
+french bean,johor,8/1/2022,13.53
+french bean,johor,9/1/2022,12.53
+round cabbage,johor,1/1/2022,6.03
+round cabbage,johor,2/1/2022,5.62
+round cabbage,johor,3/1/2022,5.3
+round cabbage,johor,4/1/2022,5.25
+round cabbage,johor,5/1/2022,5.57
+round cabbage,johor,6/1/2022,5.77
+round cabbage,johor,7/1/2022,5.7
+round cabbage,johor,8/1/2022,5.74
+round cabbage,johor,9/1/2022,5.49
+cauliflower,johor,1/1/2022,10.76
+cauliflower,johor,2/1/2022,9.28
+cauliflower,johor,3/1/2022,8.74
+cauliflower,johor,4/1/2022,8.7
+cauliflower,johor,5/1/2022,8.76
+cauliflower,johor,6/1/2022,8.77
+cauliflower,johor,7/1/2022,9.04
+cauliflower,johor,8/1/2022,9.88
+cauliflower,johor,9/1/2022,11.09
+carrot,johor,1/1/2022,5.26
+carrot,johor,2/1/2022,4.99
+carrot,johor,3/1/2022,4.76
+carrot,johor,4/1/2022,4.71
+carrot,johor,5/1/2022,4.8
+carrot,johor,6/1/2022,4.99
+carrot,johor,7/1/2022,4.97
+carrot,johor,8/1/2022,4.77
+carrot,johor,9/1/2022,4.78
+cucumber,johor,1/1/2022,4.16
+cucumber,johor,2/1/2022,3.9
+cucumber,johor,3/1/2022,3.63
+cucumber,johor,4/1/2022,3.97
+cucumber,johor,5/1/2022,4.57
+cucumber,johor,6/1/2022,4.68
+cucumber,johor,7/1/2022,5.1
+cucumber,johor,8/1/2022,5.26
+cucumber,johor,9/1/2022,4.11
+green apple,johor,1/1/2022,1.26
+green apple,johor,2/1/2022,1.24
+green apple,johor,3/1/2022,1.28
+green apple,johor,4/1/2022,1.33
+green apple,johor,5/1/2022,1.3
+green apple,johor,6/1/2022,1.33
+green apple,johor,7/1/2022,1.33
+green apple,johor,8/1/2022,1.32
+green apple,johor,9/1/2022,1.35
+red apple,johor,1/1/2022,1.36
+red apple,johor,2/1/2022,1.36
+red apple,johor,3/1/2022,1.42
+red apple,johor,4/1/2022,1.45
+red apple,johor,5/1/2022,1.45
+red apple,johor,6/1/2022,1.51
+red apple,johor,7/1/2022,1.49
+red apple,johor,8/1/2022,1.5
+red apple,johor,9/1/2022,1.58
+papaya,johor,1/1/2022,3.94
+papaya,johor,2/1/2022,3.97
+papaya,johor,3/1/2022,3.95
+papaya,johor,4/1/2022,3.97
+papaya,johor,5/1/2022,4.03
+papaya,johor,6/1/2022,4.18
+papaya,johor,7/1/2022,4.12
+papaya,johor,8/1/2022,4.05
+papaya,johor,9/1/2022,4.03
+banana,johor,1/1/2022,4.54
+banana,johor,2/1/2022,4.43
+banana,johor,3/1/2022,4.25
+banana,johor,4/1/2022,4.39
+banana,johor,5/1/2022,4.68
+banana,johor,6/1/2022,4.6
+banana,johor,7/1/2022,4.72
+banana,johor,8/1/2022,5.08
+banana,johor,9/1/2022,5
+black pomfret (fish),johor,1/1/2022,28.92
+black pomfret (fish),johor,2/1/2022,28.84
+black pomfret (fish),johor,3/1/2022,28.6
+black pomfret (fish),johor,4/1/2022,28.77
+black pomfret (fish),johor,5/1/2022,27.75
+black pomfret (fish),johor,6/1/2022,29.52
+black pomfret (fish),johor,7/1/2022,28.72
+black pomfret (fish),johor,8/1/2022,29.08
+black pomfret (fish),johor,9/1/2022,29.13
+hardtail scad (fish),johor,1/1/2022,11.79
+hardtail scad (fish),johor,2/1/2022,11.67
+hardtail scad (fish),johor,3/1/2022,11.07
+hardtail scad (fish),johor,4/1/2022,11.29
+hardtail scad (fish),johor,5/1/2022,11.3
+hardtail scad (fish),johor,6/1/2022,11.71
+hardtail scad (fish),johor,7/1/2022,11.43
+hardtail scad (fish),johor,8/1/2022,10.91
+hardtail scad (fish),johor,9/1/2022,11.03
+indian mackerel (fish),johor,1/1/2022,17.87
+indian mackerel (fish),johor,2/1/2022,17.76
+indian mackerel (fish),johor,3/1/2022,17.88
+indian mackerel (fish),johor,4/1/2022,17.7
+indian mackerel (fish),johor,5/1/2022,18.07
+indian mackerel (fish),johor,6/1/2022,18.63
+indian mackerel (fish),johor,7/1/2022,18.7
+indian mackerel (fish),johor,8/1/2022,17.55
+indian mackerel (fish),johor,9/1/2022,18.24
+threadfin bream (fish),johor,1/1/2022,16.06
+threadfin bream (fish),johor,2/1/2022,16.48
+threadfin bream (fish),johor,3/1/2022,15.87
+threadfin bream (fish),johor,4/1/2022,15.6
+threadfin bream (fish),johor,5/1/2022,16.02
+threadfin bream (fish),johor,6/1/2022,16.35
+threadfin bream (fish),johor,7/1/2022,16.64
+threadfin bream (fish),johor,8/1/2022,16.17
+threadfin bream (fish),johor,9/1/2022,15.91
+red snapper (fish),johor,1/1/2022,36.68
+red snapper (fish),johor,2/1/2022,37.31
+red snapper (fish),johor,3/1/2022,37.74
+red snapper (fish),johor,4/1/2022,39.2
+red snapper (fish),johor,5/1/2022,40.07
+red snapper (fish),johor,6/1/2022,40.37
+red snapper (fish),johor,7/1/2022,39.33
+red snapper (fish),johor,8/1/2022,40.06
+red snapper (fish),johor,9/1/2022,40.72
+"spanish mackerel, batang (fish)",johor,1/1/2022,32.81
+"spanish mackerel, batang (fish)",johor,2/1/2022,32.89
+"spanish mackerel, batang (fish)",johor,3/1/2022,33.06
+"spanish mackerel, batang (fish)",johor,4/1/2022,32.66
+"spanish mackerel, batang (fish)",johor,5/1/2022,33.19
+"spanish mackerel, batang (fish)",johor,6/1/2022,33.32
+"spanish mackerel, batang (fish)",johor,7/1/2022,32.25
+"spanish mackerel, batang (fish)",johor,8/1/2022,31.88
+"spanish mackerel, batang (fish)",johor,9/1/2022,33.95
+"longtail tuna, black (fish)",johor,1/1/2022,12.5
+"longtail tuna, black (fish)",johor,2/1/2022,12.39
+"longtail tuna, black (fish)",johor,3/1/2022,13.46
+"longtail tuna, black (fish)",johor,4/1/2022,13.51
+"longtail tuna, black (fish)",johor,5/1/2022,13.32
+"longtail tuna, black (fish)",johor,6/1/2022,13.06
+"longtail tuna, black (fish)",johor,7/1/2022,13.38
+"longtail tuna, black (fish)",johor,8/1/2022,12.98
+"longtail tuna, black (fish)",johor,9/1/2022,12.91
+selayang (fish),johor,1/1/2022,11.87
+selayang (fish),johor,2/1/2022,11.82
+selayang (fish),johor,3/1/2022,12.23
+selayang (fish),johor,4/1/2022,11.66
+selayang (fish),johor,5/1/2022,11.99
+selayang (fish),johor,6/1/2022,12.59
+selayang (fish),johor,7/1/2022,12.55
+selayang (fish),johor,8/1/2022,12.04
+selayang (fish),johor,9/1/2022,11.5
+red chilli (kulai),selangor,1/1/2022,15.5
+red chilli (kulai),selangor,2/1/2022,16.02
+red chilli (kulai),selangor,3/1/2022,16.66
+red chilli (kulai),selangor,4/1/2022,16.6
+red chilli (kulai),selangor,5/1/2022,16.11
+red chilli (kulai),selangor,6/1/2022,16.79
+red chilli (kulai),selangor,7/1/2022,18.47
+red chilli (kulai),selangor,8/1/2022,17.99
+red chilli (kulai),selangor,9/1/2022,19.11
+long beans,selangor,1/1/2022,7.4
+long beans,selangor,2/1/2022,8.56
+long beans,selangor,3/1/2022,7.92
+long beans,selangor,4/1/2022,8.27
+long beans,selangor,5/1/2022,9.65
+long beans,selangor,6/1/2022,9.63
+long beans,selangor,7/1/2022,9.22
+long beans,selangor,8/1/2022,8.34
+long beans,selangor,9/1/2022,8.52
+french bean,selangor,1/1/2022,15.06
+french bean,selangor,2/1/2022,14.01
+french bean,selangor,3/1/2022,14.39
+french bean,selangor,4/1/2022,13.5
+french bean,selangor,5/1/2022,14.27
+french bean,selangor,6/1/2022,13.62
+french bean,selangor,7/1/2022,13.9
+french bean,selangor,8/1/2022,13.3
+french bean,selangor,9/1/2022,12.38
+round cabbage,selangor,1/1/2022,5.6
+round cabbage,selangor,2/1/2022,5.11
+round cabbage,selangor,3/1/2022,4.71
+round cabbage,selangor,4/1/2022,4.58
+round cabbage,selangor,5/1/2022,5.07
+round cabbage,selangor,6/1/2022,5.12
+round cabbage,selangor,7/1/2022,5.21
+round cabbage,selangor,8/1/2022,4.86
+round cabbage,selangor,9/1/2022,5
+cauliflower,selangor,1/1/2022,9.42
+cauliflower,selangor,2/1/2022,8.58
+cauliflower,selangor,3/1/2022,7.47
+cauliflower,selangor,4/1/2022,7.5
+cauliflower,selangor,5/1/2022,8.3
+cauliflower,selangor,6/1/2022,8
+cauliflower,selangor,7/1/2022,8.16
+cauliflower,selangor,8/1/2022,9.17
+cauliflower,selangor,9/1/2022,10.63
+carrot,selangor,1/1/2022,4.84
+carrot,selangor,2/1/2022,4.37
+carrot,selangor,3/1/2022,4.04
+carrot,selangor,4/1/2022,4.04
+carrot,selangor,5/1/2022,4.36
+carrot,selangor,6/1/2022,4.53
+carrot,selangor,7/1/2022,4.25
+carrot,selangor,8/1/2022,4.11
+carrot,selangor,9/1/2022,3.94
+cucumber,selangor,1/1/2022,3.86
+cucumber,selangor,2/1/2022,3.69
+cucumber,selangor,3/1/2022,3.73
+cucumber,selangor,4/1/2022,3.91
+cucumber,selangor,5/1/2022,4.57
+cucumber,selangor,6/1/2022,4.46
+cucumber,selangor,7/1/2022,4.95
+cucumber,selangor,8/1/2022,4.82
+cucumber,selangor,9/1/2022,4.32
+green apple,selangor,1/1/2022,1.12
+green apple,selangor,2/1/2022,1.17
+green apple,selangor,3/1/2022,1.2
+green apple,selangor,4/1/2022,1.07
+green apple,selangor,5/1/2022,1.1
+green apple,selangor,6/1/2022,1.17
+green apple,selangor,7/1/2022,1.21
+green apple,selangor,8/1/2022,1.19
+green apple,selangor,9/1/2022,1.21
+red apple,selangor,1/1/2022,1.27
+red apple,selangor,2/1/2022,1.29
+red apple,selangor,3/1/2022,1.32
+red apple,selangor,4/1/2022,1.25
+red apple,selangor,5/1/2022,1.38
+red apple,selangor,6/1/2022,1.36
+red apple,selangor,7/1/2022,1.27
+red apple,selangor,8/1/2022,1.19
+red apple,selangor,9/1/2022,1.28
+papaya,selangor,1/1/2022,5.21
+papaya,selangor,2/1/2022,4.99
+papaya,selangor,3/1/2022,5.38
+papaya,selangor,4/1/2022,5.45
+papaya,selangor,5/1/2022,5.08
+papaya,selangor,6/1/2022,5.42
+papaya,selangor,7/1/2022,5.4
+papaya,selangor,8/1/2022,5.52
+papaya,selangor,9/1/2022,5.53
+banana,selangor,1/1/2022,5.84
+banana,selangor,2/1/2022,5.89
+banana,selangor,3/1/2022,5.94
+banana,selangor,4/1/2022,5.88
+banana,selangor,5/1/2022,5.83
+banana,selangor,6/1/2022,6.13
+banana,selangor,7/1/2022,5.94
+banana,selangor,8/1/2022,5.92
+banana,selangor,9/1/2022,6.17
+black pomfret (fish),selangor,1/1/2022,30.95
+black pomfret (fish),selangor,2/1/2022,30.12
+black pomfret (fish),selangor,3/1/2022,30.23
+black pomfret (fish),selangor,4/1/2022,30.58
+black pomfret (fish),selangor,5/1/2022,31.29
+black pomfret (fish),selangor,6/1/2022,31.44
+black pomfret (fish),selangor,7/1/2022,30.91
+black pomfret (fish),selangor,8/1/2022,31.09
+black pomfret (fish),selangor,9/1/2022,31.57
+hardtail scad (fish),selangor,1/1/2022,11.96
+hardtail scad (fish),selangor,2/1/2022,11.85
+hardtail scad (fish),selangor,3/1/2022,11.93
+hardtail scad (fish),selangor,4/1/2022,11.44
+hardtail scad (fish),selangor,5/1/2022,12.02
+hardtail scad (fish),selangor,6/1/2022,11.76
+hardtail scad (fish),selangor,7/1/2022,11.82
+hardtail scad (fish),selangor,8/1/2022,11.94
+hardtail scad (fish),selangor,9/1/2022,11.85
+indian mackerel (fish),selangor,1/1/2022,19.2
+indian mackerel (fish),selangor,2/1/2022,19.38
+indian mackerel (fish),selangor,3/1/2022,20.17
+indian mackerel (fish),selangor,4/1/2022,19.51
+indian mackerel (fish),selangor,5/1/2022,19.84
+indian mackerel (fish),selangor,6/1/2022,20
+indian mackerel (fish),selangor,7/1/2022,19.84
+indian mackerel (fish),selangor,8/1/2022,19.77
+indian mackerel (fish),selangor,9/1/2022,19.28
+threadfin bream (fish),selangor,1/1/2022,16.76
+threadfin bream (fish),selangor,2/1/2022,17.03
+threadfin bream (fish),selangor,3/1/2022,17.22
+threadfin bream (fish),selangor,4/1/2022,17.41
+threadfin bream (fish),selangor,5/1/2022,17.98
+threadfin bream (fish),selangor,6/1/2022,17.57
+threadfin bream (fish),selangor,7/1/2022,17.86
+threadfin bream (fish),selangor,8/1/2022,17.79
+threadfin bream (fish),selangor,9/1/2022,17.46
+red snapper (fish),selangor,1/1/2022,37.67
+red snapper (fish),selangor,2/1/2022,38.72
+red snapper (fish),selangor,3/1/2022,39.62
+red snapper (fish),selangor,4/1/2022,39.95
+red snapper (fish),selangor,5/1/2022,41.45
+red snapper (fish),selangor,6/1/2022,41.53
+red snapper (fish),selangor,7/1/2022,41.03
+red snapper (fish),selangor,8/1/2022,40.67
+red snapper (fish),selangor,9/1/2022,41.01
+"spanish mackerel, batang (fish)",selangor,1/1/2022,35.94
+"spanish mackerel, batang (fish)",selangor,2/1/2022,35.64
+"spanish mackerel, batang (fish)",selangor,3/1/2022,35.42
+"spanish mackerel, batang (fish)",selangor,4/1/2022,35.43
+"spanish mackerel, batang (fish)",selangor,5/1/2022,38.64
+"spanish mackerel, batang (fish)",selangor,6/1/2022,37.77
+"spanish mackerel, batang (fish)",selangor,7/1/2022,36.74
+"spanish mackerel, batang (fish)",selangor,8/1/2022,36.05
+"spanish mackerel, batang (fish)",selangor,9/1/2022,36.37
+"longtail tuna, black (fish)",selangor,1/1/2022,16.09
+"longtail tuna, black (fish)",selangor,2/1/2022,16.28
+"longtail tuna, black (fish)",selangor,3/1/2022,16.01
+"longtail tuna, black (fish)",selangor,4/1/2022,15.35
+"longtail tuna, black (fish)",selangor,5/1/2022,15.41
+"longtail tuna, black (fish)",selangor,6/1/2022,15.08
+"longtail tuna, black (fish)",selangor,7/1/2022,15.05
+"longtail tuna, black (fish)",selangor,8/1/2022,14.96
+"longtail tuna, black (fish)",selangor,9/1/2022,14.95
+selayang (fish),selangor,1/1/2022,14.31
+selayang (fish),selangor,2/1/2022,14.56
+selayang (fish),selangor,3/1/2022,15.15
+selayang (fish),selangor,4/1/2022,14.6
+selayang (fish),selangor,5/1/2022,15.08
+selayang (fish),selangor,6/1/2022,15.48
+selayang (fish),selangor,7/1/2022,15.5
+selayang (fish),selangor,8/1/2022,15.61
+selayang (fish),selangor,9/1/2022,15.16
