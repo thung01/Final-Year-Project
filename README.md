@@ -33,5 +33,5 @@ You might need to install these packages in Pycharm to run the code.
 3. Click the Python Interpreter tab within your project tab.
 4. Click the small + symbol to add a new library to the project.
 
-**Important Notice**
-If you use the code in this project, you might need to change the read csv file manually. 
+# Important Notice
+If you use the code in this project, you might need to change the link for the read csv file manually. It involved in every page file in application folder and the final.ipynb. 
